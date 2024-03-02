@@ -1,46 +1,62 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Threading.Tasks.Dataflow;
 /*
-Створіть клас Bank зі списком рахунків та надайте наступні можливості:
-
-Додавання нового рахунку до списку.
-Виведення інформації про всі рахунки.
-Пошук рахунку за номером.
-Здійснення операцій зняття та поповнення коштів.
-Створіть об'єкти SavingsAccount та CheckingAccount, додайте їх до Bank та використайте всі можливості системи, включаючи розрахунок відсотків та обробку переписки.*/
+Створіть об'єкти делегатів StudentActionDelegate та використовуйте їх для виведення інформації про кожного студента та збільшення їхнього середнього балу.
+*/
 namespace Project
 {
-    public class Bank
+    public class StudentList
     {
-    }
-    public abstract class Account
-    {
-        public string AccountNumber { get; set; }
-        public string HolderName { get; set; }
-        public double Balance { get; set; }
-    }
-    public class SavingsAccount : Account
-    {
-        public double InterestRate { get; set; }
-        public void CalculateInterest()
+        public List<Student> List { get; set; }
+        public StudentList()
         {
-            // TODO -> обчислювати відсоткову виплату на рахунок.
+            List = new List<Student>();
+        }
+        public void add(Student student)
+        {
+            List.Add(student);
+        }
+        //TODO:public void delete(){}
+        public void show(Student student)
+        {
+            Console.WriteLine("Student name: " + student.Name + "\nStudent surname: " + student.Surname + "\nStudent average grade: " + student.AverageGrade);
+        }
+        public void increasegrade(Student student, double amount)
+        {
+            student.AverageGrade += amount;
+        }
+        public void ProcessStudents(StudentActionDelegate actionDelegate)
+        {
+            foreach (var t in List)
+            {
+                actionDelegate(t);
+            }
         }
     }
-    public class CheckingAccount : Account
+    public delegate void StudentActionDelegate(Student student);
+    public class Student
     {
-        public double OverdraftLimit { get; set; }
-        public void Withdraw()
-        {
-            // TODO -> списання коштів (Withdraw), щоб враховувався ліміт переписки.
-        }
+        public string Name { get; set; }
+        public string Surname { get; set; }
+        public double AverageGrade { get; set; }
+        public Student(string name, string surname, double avarege_grade) { Name = name; Surname = surname; AverageGrade = avarege_grade; }
     }
     public class Program
     {
         public static void Main()
         {
-            Account account = new Account();
+            StudentList studentlist = new StudentList();
+            Student student1 = new Student("Maxsim", "Orlov", 1.1);
+            Student student2 = new Student("Gleb", "Snigurov", 2.6);
+            Student student3 = new Student("Anastasiya", "Pavlovna", 8.8);
+            studentlist.add(student1);
+            studentlist.add(student2);
+            studentlist.add(student3);
+            StudentActionDelegate increasegrade = student => studentlist.increasegrade(student, 1.1);
+            StudentActionDelegate show = student => studentlist.show(student);
+            studentlist.ProcessStudents(increasegrade);
+            studentlist.ProcessStudents(show);
         }
     }
 }
