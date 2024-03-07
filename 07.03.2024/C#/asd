@@ -1,0 +1,63 @@
+using System;
+using System.Collections.Generic;
+
+class Warehouse
+{
+    public List<Product> Products { get; set; }
+
+    public Warehouse(List<Product> initialProducts)
+    {
+        Products = initialProducts;
+    }
+
+    public void CheckStock()
+    {
+        foreach (var product in Products)
+        {
+            if (product.Quantity == 0)
+            {
+                Console.WriteLine($"Товар {product.Name} закончился. Закупаем {product.Name} в количестве 10.");
+                product.ReplenishStock(10);
+                Console.WriteLine($"Необходимо заплатить: {product.Price * 10}.");
+            }
+        }
+    }
+}
+
+class Product
+{
+    public string Name { get; set; }
+    public double Price { get; set; }
+    public int Quantity { get; set; }
+
+    public Product(string name, double price, int quantity)
+    {
+        Name = name;
+        Price = price;
+        Quantity = quantity;
+    }
+
+    public void ReplenishStock(int quantity)
+    {
+        Quantity += quantity;
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        // Создаем список товаров для инициализации склада
+        List<Product> initialProducts = new List<Product>
+        {
+            new Product("Книга", 10, 5),
+            new Product("Карандаш", 1, 0)
+        };
+
+        // Создаем склад с начальными товарами
+        Warehouse warehouse = new Warehouse(initialProducts);
+
+        // Проверяем запасы на складе
+        warehouse.CheckStock();
+    }
+}
