@@ -1,0 +1,56 @@
+E:\Code\bin\Debug\net8.0\Code.exe
+E:\Code\bin\Debug\net8.0\Code.deps.json
+E:\Code\bin\Debug\net8.0\Code.runtimeconfig.json
+E:\Code\bin\Debug\net8.0\Code.dll
+E:\Code\bin\Debug\net8.0\Code.pdb
+E:\Code\obj\Debug\net8.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\obj\Debug\net8.0\Code.AssemblyInfoInputs.cache
+E:\Code\obj\Debug\net8.0\Code.AssemblyInfo.cs
+E:\Code\obj\Debug\net8.0\Code.csproj.CoreCompileInputs.cache
+E:\Code\obj\Debug\net8.0\Code.dll
+E:\Code\obj\Debug\net8.0\refint\Code.dll
+E:\Code\obj\Debug\net8.0\Code.pdb
+E:\Code\obj\Debug\net8.0\Code.genruntimeconfig.cache
+E:\Code\obj\Debug\net8.0\ref\Code.dll
+E:\Code\C#\bin\Debug\net8.0\Code.exe
+E:\Code\C#\bin\Debug\net8.0\Code.deps.json
+E:\Code\C#\bin\Debug\net8.0\Code.runtimeconfig.json
+E:\Code\C#\bin\Debug\net8.0\Code.dll
+E:\Code\C#\bin\Debug\net8.0\Code.pdb
+E:\Code\C#\obj\Debug\net8.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C#\obj\Debug\net8.0\Code.AssemblyInfoInputs.cache
+E:\Code\C#\obj\Debug\net8.0\Code.AssemblyInfo.cs
+E:\Code\C#\obj\Debug\net8.0\Code.csproj.CoreCompileInputs.cache
+E:\Code\C#\obj\Debug\net8.0\Code.dll
+E:\Code\C#\obj\Debug\net8.0\refint\Code.dll
+E:\Code\C#\obj\Debug\net8.0\Code.pdb
+E:\Code\C#\obj\Debug\net8.0\Code.genruntimeconfig.cache
+E:\Code\C#\obj\Debug\net8.0\ref\Code.dll
+E:\Code — копия\C#\bin\Debug\net8.0\Code.exe
+E:\Code — копия\C#\bin\Debug\net8.0\Code.deps.json
+E:\Code — копия\C#\bin\Debug\net8.0\Code.runtimeconfig.json
+E:\Code — копия\C#\bin\Debug\net8.0\Code.dll
+E:\Code — копия\C#\bin\Debug\net8.0\Code.pdb
+E:\Code — копия\C#\obj\Debug\net8.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code — копия\C#\obj\Debug\net8.0\Code.AssemblyInfoInputs.cache
+E:\Code — копия\C#\obj\Debug\net8.0\Code.AssemblyInfo.cs
+E:\Code — копия\C#\obj\Debug\net8.0\Code.csproj.CoreCompileInputs.cache
+E:\Code — копия\C#\obj\Debug\net8.0\Code.dll
+E:\Code — копия\C#\obj\Debug\net8.0\refint\Code.dll
+E:\Code — копия\C#\obj\Debug\net8.0\Code.pdb
+E:\Code — копия\C#\obj\Debug\net8.0\Code.genruntimeconfig.cache
+E:\Code — копия\C#\obj\Debug\net8.0\ref\Code.dll
+E:\Code1\C#\obj\Debug\net8.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code1\C#\obj\Debug\net8.0\Code.AssemblyInfoInputs.cache
+E:\Code1\C#\obj\Debug\net8.0\Code.AssemblyInfo.cs
+E:\Code1\C#\obj\Debug\net8.0\Code.csproj.CoreCompileInputs.cache
+E:\Code1\C#\obj\Debug\net8.0\Code.dll
+E:\Code1\C#\obj\Debug\net8.0\refint\Code.dll
+E:\Code1\C#\obj\Debug\net8.0\Code.pdb
+E:\Code1\c#\bin\Debug\net8.0\Code.exe
+E:\Code1\c#\bin\Debug\net8.0\Code.deps.json
+E:\Code1\c#\bin\Debug\net8.0\Code.runtimeconfig.json
+E:\Code1\c#\bin\Debug\net8.0\Code.dll
+E:\Code1\c#\bin\Debug\net8.0\Code.pdb
+E:\Code1\c#\obj\Debug\net8.0\Code.genruntimeconfig.cache
+E:\Code1\c#\obj\Debug\net8.0\ref\Code.dll
