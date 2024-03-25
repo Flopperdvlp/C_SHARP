@@ -1,7 +1,5 @@
 ﻿using System;
-using System.ComponentModel;
 using System.Linq;
-using System.Security.Cryptography.X509Certificates;
 /*
 Опис проекту:
 Програма повинна надавати можливість виконання різноманітних операцій з колекціями даних, таких як фільтрація, сортування, групування, преобразування та агрегація за допомогою LINQ.
@@ -43,9 +41,6 @@ namespace Project
                 Console.WriteLine(b.Number);
             }
             Console.WriteLine("Начальника, ничего не работает начальника!");
-        }
-        public void show()
-        {
         }
     }
     public class Program
