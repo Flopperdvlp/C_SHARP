@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user>
+    <name>John</name>
+    <password>12345</password>
+    <email>john.doe@example.com</email>
+    <age>30</age>
+    <balance>100.5</balance>
+    <status>Online</status>
+    <birth_date>1990-05-15</birth_date>
+    <country>Canada</country>
+  </user>
+</users>
