@@ -1,0 +1,15 @@
+/Users/gleb/Desktop/VS/c_sharp 3 (14.05)/c_sharp 3 (14.05)/obj/Debug/net7.0/c_sharp 3 (14.05).csproj.AssemblyReference.cache
+/Users/gleb/Desktop/VS/c_sharp 3 (14.05)/c_sharp 3 (14.05)/obj/Debug/net7.0/c_sharp 3 (14.05).GeneratedMSBuildEditorConfig.editorconfig
+/Users/gleb/Desktop/VS/c_sharp 3 (14.05)/c_sharp 3 (14.05)/obj/Debug/net7.0/c_sharp 3 (14.05).AssemblyInfoInputs.cache
+/Users/gleb/Desktop/VS/c_sharp 3 (14.05)/c_sharp 3 (14.05)/obj/Debug/net7.0/c_sharp 3 (14.05).AssemblyInfo.cs
+/Users/gleb/Desktop/VS/c_sharp 3 (14.05)/c_sharp 3 (14.05)/obj/Debug/net7.0/c_sharp 3 (14.05).csproj.CoreCompileInputs.cache
+/Users/gleb/Desktop/VS/c_sharp 3 (14.05)/c_sharp 3 (14.05)/bin/Debug/net7.0/c_sharp 3 (14.05)
+/Users/gleb/Desktop/VS/c_sharp 3 (14.05)/c_sharp 3 (14.05)/bin/Debug/net7.0/c_sharp 3 (14.05).deps.json
+/Users/gleb/Desktop/VS/c_sharp 3 (14.05)/c_sharp 3 (14.05)/bin/Debug/net7.0/c_sharp 3 (14.05).runtimeconfig.json
+/Users/gleb/Desktop/VS/c_sharp 3 (14.05)/c_sharp 3 (14.05)/bin/Debug/net7.0/c_sharp 3 (14.05).dll
+/Users/gleb/Desktop/VS/c_sharp 3 (14.05)/c_sharp 3 (14.05)/bin/Debug/net7.0/c_sharp 3 (14.05).pdb
+/Users/gleb/Desktop/VS/c_sharp 3 (14.05)/c_sharp 3 (14.05)/obj/Debug/net7.0/c_sharp 3 (14.05).dll
+/Users/gleb/Desktop/VS/c_sharp 3 (14.05)/c_sharp 3 (14.05)/obj/Debug/net7.0/refint/c_sharp 3 (14.05).dll
+/Users/gleb/Desktop/VS/c_sharp 3 (14.05)/c_sharp 3 (14.05)/obj/Debug/net7.0/c_sharp 3 (14.05).pdb
+/Users/gleb/Desktop/VS/c_sharp 3 (14.05)/c_sharp 3 (14.05)/obj/Debug/net7.0/c_sharp 3 (14.05).genruntimeconfig.cache
+/Users/gleb/Desktop/VS/c_sharp 3 (14.05)/c_sharp 3 (14.05)/obj/Debug/net7.0/ref/c_sharp 3 (14.05).dll

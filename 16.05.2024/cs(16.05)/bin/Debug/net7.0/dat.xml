@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<games>
+  <game>
+    <id>1</id>
+    <title>gta4</title>
+    <genre>ba</genre>
+    <release_year>2020</release_year>
+    <developer>vlad</developer>
+    <rating>9</rating>
+  </game>
+</games>
