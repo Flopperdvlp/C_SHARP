@@ -1,0 +1,15 @@
+/Users/gleb/Desktop/VS/c_sharp/c_sharp/bin/Debug/net7.0/c_sharp
+/Users/gleb/Desktop/VS/c_sharp/c_sharp/bin/Debug/net7.0/c_sharp.deps.json
+/Users/gleb/Desktop/VS/c_sharp/c_sharp/bin/Debug/net7.0/c_sharp.runtimeconfig.json
+/Users/gleb/Desktop/VS/c_sharp/c_sharp/bin/Debug/net7.0/c_sharp.dll
+/Users/gleb/Desktop/VS/c_sharp/c_sharp/bin/Debug/net7.0/c_sharp.pdb
+/Users/gleb/Desktop/VS/c_sharp/c_sharp/obj/Debug/net7.0/c_sharp.csproj.AssemblyReference.cache
+/Users/gleb/Desktop/VS/c_sharp/c_sharp/obj/Debug/net7.0/c_sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gleb/Desktop/VS/c_sharp/c_sharp/obj/Debug/net7.0/c_sharp.AssemblyInfoInputs.cache
+/Users/gleb/Desktop/VS/c_sharp/c_sharp/obj/Debug/net7.0/c_sharp.AssemblyInfo.cs
+/Users/gleb/Desktop/VS/c_sharp/c_sharp/obj/Debug/net7.0/c_sharp.csproj.CoreCompileInputs.cache
+/Users/gleb/Desktop/VS/c_sharp/c_sharp/obj/Debug/net7.0/c_sharp.dll
+/Users/gleb/Desktop/VS/c_sharp/c_sharp/obj/Debug/net7.0/refint/c_sharp.dll
+/Users/gleb/Desktop/VS/c_sharp/c_sharp/obj/Debug/net7.0/c_sharp.pdb
+/Users/gleb/Desktop/VS/c_sharp/c_sharp/obj/Debug/net7.0/c_sharp.genruntimeconfig.cache
+/Users/gleb/Desktop/VS/c_sharp/c_sharp/obj/Debug/net7.0/ref/c_sharp.dll
