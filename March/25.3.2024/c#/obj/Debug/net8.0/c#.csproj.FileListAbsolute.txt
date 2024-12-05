@@ -1,0 +1,14 @@
+/Users/gleb/Desktop/VSCODE/c#/bin/Debug/net8.0/c#
+/Users/gleb/Desktop/VSCODE/c#/bin/Debug/net8.0/c#.deps.json
+/Users/gleb/Desktop/VSCODE/c#/bin/Debug/net8.0/c#.runtimeconfig.json
+/Users/gleb/Desktop/VSCODE/c#/bin/Debug/net8.0/c#.dll
+/Users/gleb/Desktop/VSCODE/c#/bin/Debug/net8.0/c#.pdb
+/Users/gleb/Desktop/VSCODE/c#/obj/Debug/net8.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gleb/Desktop/VSCODE/c#/obj/Debug/net8.0/c#.AssemblyInfoInputs.cache
+/Users/gleb/Desktop/VSCODE/c#/obj/Debug/net8.0/c#.AssemblyInfo.cs
+/Users/gleb/Desktop/VSCODE/c#/obj/Debug/net8.0/c#.csproj.CoreCompileInputs.cache
+/Users/gleb/Desktop/VSCODE/c#/obj/Debug/net8.0/c#.dll
+/Users/gleb/Desktop/VSCODE/c#/obj/Debug/net8.0/refint/c#.dll
+/Users/gleb/Desktop/VSCODE/c#/obj/Debug/net8.0/c#.pdb
+/Users/gleb/Desktop/VSCODE/c#/obj/Debug/net8.0/c#.genruntimeconfig.cache
+/Users/gleb/Desktop/VSCODE/c#/obj/Debug/net8.0/ref/c#.dll
